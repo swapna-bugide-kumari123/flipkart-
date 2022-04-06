@@ -1,0 +1,4 @@
+devops is a software course
+mahesh sir teaches about devops .
+linux is an command oriented opering system
+linux is developed by linus torvalds
