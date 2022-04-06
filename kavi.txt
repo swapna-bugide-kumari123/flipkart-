@@ -1,4 +1,6 @@
 devops is a software course
 mahesh sir teaches about devops .
 linux is an command oriented opering system
-linux is developed by linus torvalds
+linux is developed by linus torvald
+we are larning devops.
+we have to face interviews to get a job.
